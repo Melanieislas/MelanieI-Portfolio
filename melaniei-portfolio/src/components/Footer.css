@@ -1,5 +1,5 @@
 .main-footer {
-    color: white;
+    color: #DBCCC6;
     background-color: #491F40;
     padding: 1em;
     position: relative;
@@ -12,7 +12,4 @@
 
 .reach-me {
     padding-bottom: 10px;
-}
-
-.col {
 }
