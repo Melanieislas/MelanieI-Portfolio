@@ -1,9 +1,14 @@
 import React from 'react';
 import './App.css';
-import Test from './components/test';
+import Header from './components/Header';
+//import NavBar from './components/Navigation';
 
 function App() {
-  return <Test />;
+  return(
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default App;
