@@ -1,27 +1,36 @@
 import React from 'react';
 import '../components/Navigation.css'
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-//import '../components/Navigation.css'
+//import { NavLink } from 'react-router-dom'
+//import { ReactComponent as Brand } from '../../assets/icons/logo.svg'
+///import Container from 'react-bootstrap/Container';
+///import Nav from 'react-bootstrap/Nav';
+///import Navbar from 'react-bootstrap/Navbar';
+//import Project from './components/Project';
+import {  Link } from "react-router-dom";
 
+//import '../components/Navigation.css'
 
 function NavBar() {
     return (
     <>
-    <Navbar className='main-navbar'>
-        <Container >
-            <Navbar.Brand href="#home">
-                <h2 className='name'>Melanie Islas</h2>
-            </Navbar.Brand>
-          <Nav className="me-auto">
-            <Nav.Link href="#about-me">About me</Nav.Link>
-            <Nav.Link href="#portfolio">Portfolio</Nav.Link>
-            <Nav.Link href="#contact">Contact</Nav.Link>
-            <Nav.Link href="#resume">Resume</Nav.Link>
-          </Nav>
-        </Container>
-      </Navbar>
+    <div className='main-navbar'>
+        <div className='row'>
+            <div className='name col'>Melanie Islas</div>
+            <li className='col'>
+            <Link to="/about-me" className='link'>About Me</Link>
+            </li>
+            <li className='col'>
+            <Link to="/portfolio" className='link'>Portfolio</Link>
+            </li>
+            <li className=' col'>
+            <Link to="/contact" className='link'>Contact</Link>
+            </li>
+            <li className='col'>
+            <Link to="/resume" className='link'>Resume</Link>
+            </li>
+        </div>
+  </div>
+
     </>);
 }
 
