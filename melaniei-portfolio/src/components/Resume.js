@@ -2,6 +2,8 @@ import React from 'react';
 import '../components/Resume.css';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
+import resume2 from './assets/Resume2.png';
+
 
 function Resume() {
     return (
@@ -13,7 +15,9 @@ function Resume() {
       <Card.Body>
         <Card.Title style={{fontSize: '40px', textAlign: 'center', fontFamily: 'Times New Roman'}}>Resume</Card.Title>
         <Card.Text style={{textAlign: 'center', fontFamily: 'Times New Roman'}}>
-          <button>Click Here to Download My Resume</button>
+            <a href={resume2} download="Melanie's Resume">
+                <button>Click Here to Download My Resume</button>
+            </a>
         </Card.Text>
       </Card.Body>
       <ListGroup className="list-group-flush" style={{fontSize: '20px', fontFamily: 'Times New Roman'}}>
@@ -36,7 +40,6 @@ function Resume() {
         <ListGroup.Item>GraphQL</ListGroup.Item>
       </ListGroup>
     </Card>
-
         </>
       );
 }

@@ -8,7 +8,6 @@ function Footer() {
             <div className='container'>
                 <div className='row'>
                     <h4 className='reach-me'>Reach Me!</h4>
-                    {/*column 1*/}
                     <a className='col' href="https://github.com/Melanieislas">
                         <h2><BsGithub /></h2>
                     </a>
