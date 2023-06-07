@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MelanieI-Portfolio/static/css/main.5d24edc3.css",
+    "main.js": "/MelanieI-Portfolio/static/js/main.3b6f1a3e.js",
+    "static/media/ProfilePic.jpg": "/MelanieI-Portfolio/static/media/ProfilePic.8154844fcea820e4e449.jpg",
+    "static/media/Horoscope.gif": "/MelanieI-Portfolio/static/media/Horoscope.5642d8f41150102162bb.gif",
+    "static/media/js.gif": "/MelanieI-Portfolio/static/media/js.8c8fd0ebdcd79bb905c5.gif",
+    "static/media/weather-forecast.gif": "/MelanieI-Portfolio/static/media/weather-forecast.88ad1437e1757d35aba0.gif",
+    "static/media/Highlighter.gif": "/MelanieI-Portfolio/static/media/Highlighter.1ddfc82bd1689669668c.gif",
+    "static/media/password.gif": "/MelanieI-Portfolio/static/media/password.15e4f43bc7ab004fe695.gif",
+    "static/media/Resume2.png": "/MelanieI-Portfolio/static/media/Resume2.5bc8b3bad0efe04e5dc5.png",
+    "static/media/Buzzer.gif": "/MelanieI-Portfolio/static/media/Buzzer.353167ed4207ff6f487e.gif",
+    "index.html": "/MelanieI-Portfolio/index.html",
+    "main.5d24edc3.css.map": "/MelanieI-Portfolio/static/css/main.5d24edc3.css.map",
+    "main.3b6f1a3e.js.map": "/MelanieI-Portfolio/static/js/main.3b6f1a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d24edc3.css",
+    "static/js/main.3b6f1a3e.js"
+  ]
+}
