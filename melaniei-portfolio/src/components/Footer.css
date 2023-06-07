@@ -8,8 +8,10 @@
 }
 .row {
     text-align: center;
+    font-family: 'Times New Roman', serif;
 }
 
 .reach-me {
     padding-bottom: 10px;
+    color: #ce8936; 
 }

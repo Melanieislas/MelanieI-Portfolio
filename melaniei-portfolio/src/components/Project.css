@@ -1,7 +1,8 @@
 .gifs {
     width: 350px;
     height: 300px;
-    padding: 20px;
+    padding: 10px;
+    border-radius: 50%;
 }
 
 .titles {
