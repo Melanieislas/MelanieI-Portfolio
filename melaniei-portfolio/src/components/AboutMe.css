@@ -14,6 +14,7 @@
     border-radius: 50%;
     margin: 50px;
     float: left;
+    border: 8px solid #ce8936;
 }
 
 .description {
