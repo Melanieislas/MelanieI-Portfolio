@@ -16,10 +16,10 @@ function App() {
           <Header />
         </div>
       <Routes>
-        <Route path='/' element={<AboutMe/>} />
-        <Route path='/portfolio' element={<Project/>} />
-        <Route path='/contact' element={<Contact/>} />
-        <Route path='/resume' element={<Resume/>} />
+        <Route path='/MelanieI-Portfolio' element={<AboutMe/>} />
+        <Route path='/MelanieI-Portfolio/portfolio' element={<Project/>} />
+        <Route path='/MelanieI-Portfolio/contact' element={<Contact/>} />
+        <Route path='/MelanieI-Portfolio/resume' element={<Resume/>} />
       </Routes>
       </div>
       <Footer />

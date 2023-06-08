@@ -9,16 +9,16 @@ function NavBar() {
         <div className='row'>
             <div className='name col'>Melanie Islas</div>
             <li className='col'>
-            <Link to="/" className='link'>About Me</Link>
+            <Link to="/MelanieI-Portfolio" className='link'>About Me</Link>
             </li>
             <li className='col'>
-            <Link to="/portfolio" className='link'>Portfolio</Link>
+            <Link to="/MelanieI-Portfolio/portfolio" className='link'>Portfolio</Link>
             </li>
             <li className=' col'>
-            <Link to="/contact" className='link'>Contact</Link>
+            <Link to="/MelanieI-Portfolio/contact" className='link'>Contact</Link>
             </li>
             <li className='col'>
-            <Link to="/resume" className='link'>Resume</Link>
+            <Link to="/MelanieI-Portfolio/resume" className='link'>Resume</Link>
             </li>
         </div>
   </div>
