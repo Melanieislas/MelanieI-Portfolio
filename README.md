@@ -9,7 +9,7 @@
 - 
 ## Usage
 
-Link to Deployed Application: 
+Link to Deployed Application: https://melanieislas.github.io/MelanieI-Portfolio/
 
 The following screenshot shows the home page that renders the About Me section
 
