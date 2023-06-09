@@ -13,7 +13,7 @@ Link to Deployed Application: https://melanieislas.github.io/MelanieI-Portfolio/
 
 The following screenshot shows the home page that renders the About Me section
 
-![AboutMe]()
+![AboutMe](https://github.com/Melanieislas/MelanieI-Portfolio/assets/120453099/271d66cd-09e9-4fe7-8a3d-64724f64c2b9)
 
 ## License
 
