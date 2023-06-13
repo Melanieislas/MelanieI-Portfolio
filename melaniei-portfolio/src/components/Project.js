@@ -1,8 +1,4 @@
 import React from 'react';
-//import NavBar from './Navigation';
-//import '../styles/Header.css';\
-//import NavBar from './components/Navigation';
-//import logo from './Horoscope.gif';
 import horoscope from './assets/Horoscope.gif';
 import buzzer from './assets/Buzzer.gif';
 import highlighter from './assets/Highlighter.gif';
@@ -43,7 +39,7 @@ function Project() {
                                 <div className='titles'>Highlighter <BsGithub /> </div>
                             </a>
                         </div>                        
-                        <a href='https://github.com/Radioactive-mtb/highlighter'>  
+                        <a href='https://peaceful-island-43281.herokuapp.com'>  
                             <img className='gifs' alt='Calendar Gif' src={highlighter}></img>
                         </a>
                     </div>
