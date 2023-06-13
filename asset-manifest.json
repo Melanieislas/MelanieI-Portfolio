@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MelanieI-Portfolio/static/css/main.5d24edc3.css",
-    "main.js": "/MelanieI-Portfolio/static/js/main.1dc78f99.js",
+    "main.js": "/MelanieI-Portfolio/static/js/main.79a20c5f.js",
     "static/media/ProfilePic.jpg": "/MelanieI-Portfolio/static/media/ProfilePic.8154844fcea820e4e449.jpg",
     "static/media/Horoscope.gif": "/MelanieI-Portfolio/static/media/Horoscope.5642d8f41150102162bb.gif",
     "static/media/js.gif": "/MelanieI-Portfolio/static/media/js.8c8fd0ebdcd79bb905c5.gif",
@@ -12,10 +12,10 @@
     "static/media/Buzzer.gif": "/MelanieI-Portfolio/static/media/Buzzer.353167ed4207ff6f487e.gif",
     "index.html": "/MelanieI-Portfolio/index.html",
     "main.5d24edc3.css.map": "/MelanieI-Portfolio/static/css/main.5d24edc3.css.map",
-    "main.1dc78f99.js.map": "/MelanieI-Portfolio/static/js/main.1dc78f99.js.map"
+    "main.79a20c5f.js.map": "/MelanieI-Portfolio/static/js/main.79a20c5f.js.map"
   },
   "entrypoints": [
     "static/css/main.5d24edc3.css",
-    "static/js/main.1dc78f99.js"
+    "static/js/main.79a20c5f.js"
   ]
 }
