@@ -38,7 +38,8 @@ function Project() {
                             <a href="https://github.com/Radioactive-mtb/highlighter">
                                 <div className='titles'>Highlighter <BsGithub /> </div>
                             </a>
-                        </div>                        
+                        </div>           
+                        
                         <a href='https://peaceful-island-43281.herokuapp.com'>  
                             <img className='gifs' alt='Calendar Gif' src={highlighter}></img>
                         </a>
